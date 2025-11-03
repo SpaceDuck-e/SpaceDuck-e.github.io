@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+    margin: 0px;
+}
+.nav{
+    margin: 0px;
+    padding: 5px;
+    background-color: rgb(255, 199, 115);
+}
+.navtext{
+    background-color: bisque;
+    padding: 4px;
+    margin: 3px;
+    border-radius: 5px;
+}
+.title{
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+    margin: 10px;
+}
