@@ -4,19 +4,20 @@ body{
 }
 .nav{
     margin: 0px;
-    padding: 5px;
+    padding: 1vw;
     background-color: rgb(255, 199, 115);
 }
 .navtext{
+    font-size: 2vw;
     background-color: bisque;
-    padding: 4px;
+    padding: 0.9vw;
     margin: 3px;
     border-radius: 5px;
     text-decoration: none;
     color: rgb(58, 32, 0);
 }
 .title{
-    font-size: 30px;
+    font-size: 5vw;
     font-family: 'Lucida Sans';
-    margin: 10px;
+    margin: 1vh;
 }
