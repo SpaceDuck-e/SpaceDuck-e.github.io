@@ -17,7 +17,7 @@ body{
     color: rgb(58, 32, 0);
 }
 .title{
-    font-size: 3vw;
+    font-size: clamp(1.5vw, 2.5vw, 4vw);
     font-family: 'Lucida Sans';
     margin: 1vh;
 }
