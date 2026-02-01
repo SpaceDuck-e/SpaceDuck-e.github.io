@@ -22,8 +22,14 @@ body{
     margin: 1vh;
 }
 .fontOne{
-    font-size: 0.7vw;
+    font-size: 3vw;
+    font-family: 'Lucida Sans';
+    margin: 1vh;
 }
 .autoImageOne{
     width: clamp(3vw, 4vw, 5vw);
+}
+.gridArt{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
 }
