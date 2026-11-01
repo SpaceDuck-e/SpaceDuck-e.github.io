@@ -22,3 +22,18 @@ body{
 .gifs{
     size: 0.25vw;
 }
+.project-image {
+    float: left;
+    width: 30%;
+    max-width: 220px;
+    height: auto;
+    margin: 0 1rem 0.75rem 0;
+}
+.projectBox{
+    background-color: bisque;
+    border: 2px solid black;
+    padding: 1%;
+    border-color: black;
+    margin: 1%;
+    display:flow-root;
+}
